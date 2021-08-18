@@ -55,12 +55,16 @@
 * [coding](https://coding.net/)
 * [gitlab](https://gitlab.com/)
 * [码云](https://gitee.com/)
+* [bitbucket](https://bitbucket.org/product/)
 
 
-## 在线编译器
+## 在线编译器/平台
 
 * [rextester](https://rextester.com/)
 * [runoob](https://c.runoob.com/)
+* [coding](https://coding.net/)
+* [stackblitz](https://stackblitz.com/)
+* [codesandbox](https://codesandbox.io/)
 
 ## 远端工具
 
@@ -89,6 +93,7 @@
 * [tinypng](https://tinypng.com/)
 * [picdiet](https://www.picdiet.com/zh-cn)
 * [smartresize](https://www.smartresize.com/zh-cn)
+* [iloveimg](https://www.iloveimg.com/zh-cn)
 
 ## 文档工具
 
